@@ -1,5 +1,3 @@
 # demo
 
 hola
-
-.git
